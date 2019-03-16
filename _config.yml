@@ -4,7 +4,6 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Michael Bastos
@@ -24,5 +23,6 @@ version:          2.0.0
 github:
   repo:           https://github.com/bastosmichael
 
-gems:
+plugins:
   - jekyll-sitemap
+  - jekyll-paginate
