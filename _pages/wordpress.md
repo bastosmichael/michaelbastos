@@ -1,6 +1,7 @@
 ---
 layout: page
 title: WordPress Articles
+permalink: /wordpress
 ---
 
 I’ve been using WordPress since 2009 and helped start Advanced WordPress group out of San Diego.

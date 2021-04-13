@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Work History
+permalink: /resume
 ---
 
 # OBJECTIVE

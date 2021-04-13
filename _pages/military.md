@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Military Record
+permalink: /military
 ---
 
 ## Commands and Units

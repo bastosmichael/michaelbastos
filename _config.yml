@@ -26,3 +26,5 @@ github:
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
+
+include: ['_pages']
