@@ -24,7 +24,13 @@ github:
   repo:           https://github.com/bastosmichael
 
 plugins:
+  - jekyll-analytics
   - jekyll-sitemap
   - jekyll-paginate
 
 include: ['_pages']
+
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-4772504-2        # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
